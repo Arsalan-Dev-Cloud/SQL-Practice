@@ -1,4 +1,4 @@
-# SQL Daily Practice - Day 2
+# SQL Daily Practice - Day 3
 
 ## Topics Covered
 - Data Types
